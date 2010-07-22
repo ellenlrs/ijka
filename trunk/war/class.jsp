@@ -28,7 +28,7 @@
       <th align="center" >上 課 時 間</th>
     </tr>
     <tr>
-      <th width="14%" rowspan="3" align="center" bgcolor="#1453C7"><a href="class.html#1" target="class" class="class_body">兒<br />
+      <th width="14%" rowspan="3" align="center" ><a href="class.html#1" target="class" class="class_body">兒<br />
 童<br />
 空<br />
 手<br />
@@ -66,21 +66,6 @@
       <td align="center" ><span class="red_body">週日 特別班</span></td>
       <td align="center" >08：00 ~ 10：00</td>
     </tr>
-    <tr>
-      <th align="center" ><a href="class.html#3" target="class" class="class_body">白<br />
-      鶴<br />
-      拳</a></th>
-      <td align="center" ><span class="red_body">週日</span></td>
-      <td align="center" >06：30 ~ 08：00</td>
-    </tr>
-    <tr>
-      <th rowspan="1" align="center" bgcolor="#666666"><a href="class.html#4" target="class" class="class_body">養<br />
-      生<br />
-      氣<br />
-      功</a></th>
-      <td align="center" ><span class="red_body">週二、五</span></td>
-      <td align="center" >09：30 ~ 11：00<BR>20：30 ~ 22：00</td>
-    </tr>
     
   </table>
   <br />
@@ -92,38 +77,11 @@
   <p><strong><a name="#1" id="#1"></a>兒童空手道<br />
   </strong>領導表達 / 常規教育 / 團體生活 / 培養信心 / 段級認證 / 防身課程 / 運動課程</p>
     <table width="99%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td class="line">&nbsp;</td>
-      </tr>
     </table>
     <p><strong><a name="#2" id="#2"></a>成人空手道<br />
     </strong>防身術&nbsp; / 技擊摛拿&nbsp; / 倒地護身&nbsp; / 手腳並用 / 修身養性 </p>
     <table width="99%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td class="line">&nbsp;</td>
-      </tr>
     </table>
-    <p><strong><a name="#3" id="#3"></a>白鶴拳<br />
-    </strong>內外雙修&nbsp; / 防身強身&nbsp; </p>
-    <table width="99%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td class="line">&nbsp;</td>
-      </tr>
-    </table>
-    <p><strong><a name="#4" id="#4"></a>養生氣功<br />
-    </strong>改善體質&nbsp; / 增強免疫力&nbsp; </p>
-    <table width="99%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td class="line">&nbsp;</td>
-      </tr>
-    </table>
-    <!--
-    <p><strong><a name="#5" id="#5"></a>瑜伽<br />
-    </strong>矯正脊椎&nbsp; / 身心靈和諧 / &nbsp;加強心肺功能</p>
-   -->
-			</div>
-			<div class="meta">
-				
 			</div>
 		</div>
 	</div>
