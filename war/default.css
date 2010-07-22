@@ -7,7 +7,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-	background: #0BA1DE url(images/img01.gif) repeat-x left top;
+	background: #000000 ;
 	font-size: 14px;
 	font-family: "新細明體", serif;
 	text-align: justify;
@@ -103,9 +103,9 @@ input, textarea, select {
 
 #menu {
 	float: left;
-	width: 840px;
-	height: 60px;
-	background: url(images/img02.gif) no-repeat left top;
+	width: 830px;
+	height: 35px;
+	background: #87CEFA;
 	font-family: "新細明體", serif;
 }
 
@@ -240,9 +240,9 @@ input, textarea, select {
 /* Post */
 
 .post {
-	border: 10px #8FD3EF solid;
+	border: 5px #8FD3EF solid;
 	padding: 15px 20px;
-	background: url(images/img04.gif) repeat left top;
+	background: #000000;
 	margin-bottom: 20px;
 }
 
@@ -396,7 +396,7 @@ input, textarea, select {
 }
 
 #footer {
-	background: #0B97D4 url(images/img03.gif) repeat-x left top;
+	background: #000000;
 	margin: 0 auto;
 	padding: 20px 0 10px 0;
 }

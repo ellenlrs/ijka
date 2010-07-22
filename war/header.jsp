@@ -13,7 +13,7 @@
 	<span class="c1">為緬懷台灣空手道之父&nbsp;&nbsp;&nbsp;&nbsp;淺井哲彥首席師範（1935.6.7~2006.8.15)，全民道館在國際空手道界將以「哲彥館」為名。</span><br/>
 	<h1>
 	<a href="/"><img src="images/title02.JPG"></a></h1>
-	<h2> &raquo;&nbsp;&nbsp;&nbsp;空手道 ▪ 杖道 ▪ 白鶴拳 ▪ 養生氣功</h2>
+	<h2> &raquo;&nbsp;&nbsp;&nbsp;空手道 </h2>
 </div>
 <div id="header">
 	<div id="menu">
