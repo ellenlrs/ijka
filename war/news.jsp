@@ -26,7 +26,8 @@
 			大會於 2010年8 月15 日 圓滿舉行<br />
 			感謝各界蒞臨觀禮!<br />
 			行政院體育委員會頒贈感謝狀予 淺井哲彥首席師範(由 淺井師母代為受頒)<br /><br />
-			<img src="images/IMG_2206.JPG" width="433" height="410" >
+			<img src="images/2010081901.JPG" width="340" height="410" >
+			<img src="images/IMG_2206.JPG" width="360" height="410" >
 			</p>
 			</div>
 			</div>
