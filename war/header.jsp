@@ -22,7 +22,7 @@
 			<li><a href="/">首頁</a></li>
 			<li><a href="news.jsp">最新消息</a></li>
 			<li><a href="class.jsp">課程介紹</a></li>
-			<li><a href="activity.jsp">重大紀事</a></li>
+			<li><a href="activity.jsp">重大記事</a></li>
 			<li><a href="contest.jsp">比賽成績</a></li>
 			<li><a href="teacher.jsp">教練團介炤</a></li>
 			<li><a href="map.jsp">位置地圖</a></li>
