@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>:::歡迎光臨全民道館:::</title>
+<title>:::歡迎光臨哲彥館:::</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="default.css" rel="stylesheet" type="text/css" />
@@ -17,6 +17,15 @@
 <!-- start page -->
 <div id="page">
 			<div class="post">
+				<h2 class="title">最近消息 - 2010.9.26</h2>
+				<div class="entry"><p>
+					道館昇段晉級審查。<br />
+					18：30謝師宴及主席師範陳宏宗老師慶生會，並祝賀陳宏宗主席師範榮昇IJKA國際九段。
+					</p>
+				</div>
+			</div>
+
+			<div class="post">
 			<h2 class="title">最近消息 - 2010.08.18</h2>
 			<div class="entry"><p>
 			台灣空手道之父 淺井哲彥首席師範逝世四週年紀念會 暨<br />
@@ -26,8 +35,18 @@
 			大會於 2010年8 月15 日 圓滿舉行<br />
 			感謝各界蒞臨觀禮!<br />
 			行政院體育委員會頒贈感謝狀予 淺井哲彥首席師範(由 淺井師母代為受頒)<br /><br />
-			<img src="images/2010081901.JPG" width="340" height="410" >
-			<img src="images/IMG_2206.JPG" width="360" height="410" >
+			<center>
+			<object width="500" height="405"><param name="movie" value="http://www.youtube.com/v/E5TCId9nimQ?fs=1&amp;hl=zh_TW&amp;rel=0&amp;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/E5TCId9nimQ?fs=1&amp;hl=zh_TW&amp;rel=0&amp;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="405"></embed></object>
+			<br/><br/>公視晚間新聞(追念空手道之父 成立哲彥館育英才)<br/><br/>
+			</center>
+			<center><img src="images/IMG_219702.jpg" width="600" height="410" ><br /><br />
+			總統府代表 致詞</center><br/><br/>
+			<center><img src="images/IMG_2206.JPG" width="600" height="410" ><br /><br />
+			淺井師母代為受頒行政院體育委員會頒贈之感謝狀</center><br/><br/>
+			<center><img src="images/2010081901.JPG" width="400" height="410" ><br /><br />
+			感謝狀</center><br/><br/>
+			<center><img src="images/20100814_China Times_C2.jpg" width="700" height="410" ><br /><br/>
+			中國時報對紀念會專題報導</center><br/><br/>
 			</p>
 			</div>
 			</div>

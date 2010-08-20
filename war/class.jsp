@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>:::歡迎光臨全民道館:::</title>
+<title>:::歡迎光臨哲彥館:::</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="default.css" rel="stylesheet" type="text/css" />
@@ -28,7 +28,7 @@
       <th align="center" >上 課 時 間</th>
     </tr>
     <tr>
-      <th width="14%" rowspan="3" align="center" ><a href="class.html#1" target="class" class="class_body">兒<br />
+      <th width="14%" rowspan="3" align="center" ><a href="#" target="class" class="class_body">兒<br />
 童<br />
 空<br />
 手<br />
@@ -46,7 +46,7 @@
       <td align="center" >10：00 ~ 12：00</td>
     </tr>
     <tr>
-      <th rowspan="4" align="center" ><a href="class.html#2" target="class" class="class_body">成人<br />
+      <th rowspan="4" align="center" ><a href="#" target="class" class="class_body">成人<br />
 	青少年<BR/>
       空<br />
       手<br />
@@ -66,7 +66,14 @@
       <td align="center" ><span class="red_body">週日 特別班</span></td>
       <td align="center" >08：00 ~ 10：00</td>
     </tr>
-    
+     <tr>
+      <th rowspan="1" align="center"><a href="#" target="class" class="class_body">養<br />
+      生<br />
+      氣<br />
+      功</a></th>
+      <td align="center" ><span class="red_body">週二、五</span></td>
+      <td align="center" >09：30 ~ 11：00<BR>20：30 ~ 22：00</td>
+    </tr>
   </table>
   <br />
 </div>
@@ -82,6 +89,8 @@
     </strong>防身術&nbsp; / 技擊摛拿&nbsp; / 倒地護身&nbsp; / 手腳並用 / 修身養性 </p>
     <table width="99%" border="0" cellspacing="0" cellpadding="0">
     </table>
+    <p><strong><a name="#4" id="#4"></a>養生氣功<br />
+    </strong>改善體質&nbsp; / 增強免疫力&nbsp; </p>
 			</div>
 		</div>
 	</div>

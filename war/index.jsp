@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>:::歡迎光臨全民道館:::</title>
+<title>:::歡迎光臨哲彥館:::</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="default.css" rel="stylesheet" type="text/css" />
@@ -19,18 +19,30 @@
 	<!-- start content -->
 	<div class="post">
 			<h2 class="title">最新消息</h2>
-			<h2 class="title">2010.08.18</h2>
 			<div class="entry">
+			
+			<h2 class="title">2010.9.26</h2>
+				<p>
+					道館昇段晉級審查。<br />
+					18：30謝師宴及主席師範陳宏宗老師慶生會，並祝賀陳宏宗主席師範榮昇IJKA國際九段。
+				<br />
+				<a href="news.jsp">詳細內容...</a>
+					</p>
+			<HR/>
+
+			<h2 class="title">2010.08.18</h2>
 				<p>
 				台灣空手道之父 淺井哲彥首席師範逝世四週年紀念會 暨
-IJKA國際日本武術空手道會淺井流
-總本部道館﹣哲彥館 成立大會
-
-大會於 2010年8 月15 日 圓滿舉行
+				IJKA國際日本武術空手道會淺井流
+				總本部道館﹣哲彥館 成立大會
+				
+				大會於 2010年8 月15 日 圓滿舉行
 				<br />
 				<a href="news.jsp">詳細內容...</a>
 			</p>
+			
 			<HR/>
+			
 			<h2 class="title">2010.07.21</h2>
 				<p>
 				現將場地改至 台北市立興雅國中活動中心三樓舉行<br />
@@ -39,6 +51,7 @@ IJKA國際日本武術空手道會淺井流
 				<a href="news.jsp">詳細內容...</a>
 			</p>
 			<HR/>
+			<!--
 			<h2 class="title">2010.07.16</h2>
 				<p>
 				因紀念會籌備規模擴大，原預定場地不敷使用，需另覓新場地舉行典禮。<br />
@@ -47,7 +60,7 @@ IJKA國際日本武術空手道會淺井流
 				<a href="news.jsp">詳細內容...</a>
 			</p>
 			<HR/>
-			<!--
+			
 			<h2 class="title">2010.07.01</h2>
 				 <p>
 				為緬懷台灣空手道之父&nbsp;&nbsp;&nbsp;&nbsp;淺井哲彥首席師範（1935.6.7~2006.8.15)，全民道館在國際空手道界將以「哲彥館」為名。<br />
