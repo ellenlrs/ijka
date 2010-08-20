@@ -45,7 +45,7 @@
 			淺井師母代為受頒行政院體育委員會頒贈之感謝狀</center><br/><br/>
 			<center><img src="images/2010081901.JPG" width="400" height="410" ><br /><br />
 			感謝狀</center><br/><br/>
-			<center><img src="images/20100814_China Times_C2.jpg" width="700" height="410" ><br /><br/>
+			<center><a href="http://picasaweb.google.com/lh/photo/MLgw8o1mzsO6MyIOHlN3gg?feat=embedwebsite"><img src="http://lh3.ggpht.com/_YLRSnet3Hu8/TG7Ml1JZl6I/AAAAAAAAAhU/r97Zl03V80Q/s600/20100814_China%20Times_C2.jpg" /></a><br /><br/>
 			中國時報對紀念會專題報導</center><br/><br/>
 			</p>
 			</div>
