@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>:::歡迎光臨全民道館:::</title>
+<title>:::歡迎光臨哲彥館:::</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="default.css" rel="stylesheet" type="text/css" />
@@ -23,9 +23,9 @@
 		
 		<td width="250" valign="top">
 			<table width="250" border="0">
-			<tr><td>淺井哲彥</td><td></td></tr>
+			<tr><td>永遠的首席師範　淺井哲彥</td><td></td></tr>
 			<tr><td>日本全國空手道錦標賽</td><td>總合冠軍</td></tr>
-			<tr><td>日本空手松濤會總本部</td><td>首席師範</td></tr>
+			<tr><td>日本空手松濤連盟</td><td>首席師範</td></tr>
 			<tr><td>中華民國空手道</td><td>首創人</td></tr>
 			</table>
 		</td>
@@ -33,10 +33,10 @@
 		<td width="120" valign="top"><img src="images/1.jpg" width="110" height="132" class="img" /></td>
 		<td width="310" valign="top">
 			<table width="310" border="0">
-			<tr><td>首席師範 陳宏宗</td><td></td></tr>
+			<tr><td>主席師範 陳宏宗</td><td></td></tr>
 			<tr><td>台灣空手道<br />
 				(將日本空手道引進台灣)</td><td valign="top">創辦人</td></tr>
-			<tr><td>IJKA總本部國際八段<br/>(全世界僅三位)</td><td valign="top">主席師範</td></tr>
+			<tr><td>IJKA總本部國際九段</td><td valign="top">主席師範</td></tr>
 			<tr><td>中華民國空手道聯盟</td><td valign="top">首席師範</td></tr>
 			<tr><td>神道夢想流杖道台灣本部</td><td valign="top">首席師範</td></tr>
 			<tr><td>嵩山少林拳法學院</td><td valign="top">武術教授</td></tr>
@@ -59,7 +59,7 @@
 			<td width="260" valign="top">
 			<table width="260" border="0">
 			<tr><td>城所俊行</td><td></td></tr>
-			<tr><td>JKA國際日本空手松濤會</td><td>空手道五段</td></tr>
+			<tr><td>IJKA總本部</td><td>國際六段</td></tr>
 			<tr><td>日本麗澤大學空手道</td><td>代表隊</td></tr>
 			<tr><td>JKA全國選手權大會</td><td>團體型亞軍</td></tr>
 			<tr><td>JKA全國選手權大會</td><td>組手季軍</td></tr>
@@ -95,6 +95,7 @@
 			<td width="260" valign="top">
 			<table width="260" border="0">
 			<tr><td>汪儒郁</td><td></td></tr>
+			<tr><td>IJKA總本部</td><td>國際五段</td></tr>
 			<tr><td>中華民國空手道聯盟</td><td>空手道六段</td></tr>
 			<tr><td>全民道館</td><td>專任教練</td></tr>
 			<tr><td>興雅國中空手道社</td><td>指導教練</td></tr>
@@ -111,6 +112,7 @@
 			<td width="300" valign="top">
 			<table width="300" border="0">
 			<tr><td>周智文</td><td></td></tr>
+			<tr><td>IJKA總本部</td><td>國際五段</td></tr>
 			<tr><td>中華民國空手道聯盟</td><td valign="top">空手道六段</td></tr>
 			<tr><td>中華電信</td><td valign="top">道場教練</td></tr>
 			<tr><td>國語日報</td><td valign="top">專任教練</td></tr>
