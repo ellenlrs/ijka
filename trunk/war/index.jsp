@@ -21,9 +21,9 @@
 			<h2 class="title">最新消息</h2>
 			<div class="entry">
 			
-			<h2 class="title">2010.9.26</h2>
+			<h2 class="title">2010.8.20</h2>
 				<p>
-					道館昇段晉級審查。<br />
+					2010.9.26道館昇段晉級審查。<br />
 					18：30謝師宴及主席師範陳宏宗老師慶生會，並祝賀陳宏宗主席師範榮昇IJKA國際九段。
 				<br />
 				<a href="news.jsp">詳細內容...</a>
