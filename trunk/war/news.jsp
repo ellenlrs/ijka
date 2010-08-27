@@ -34,6 +34,7 @@
 			<br />
 			大會於 2010年8 月15 日 圓滿舉行<br />
 			感謝各界蒞臨觀禮!<br />
+			總統府代表蒞臨致詞<br/>
 			行政院體育委員會頒贈感謝狀予 淺井哲彥首席師範(由 淺井師母代為受頒)<br /><br />
 			<center>
 			<object width="500" height="405"><param name="movie" value="http://www.youtube.com/v/E5TCId9nimQ?fs=1&amp;hl=zh_TW&amp;rel=0&amp;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/E5TCId9nimQ?fs=1&amp;hl=zh_TW&amp;rel=0&amp;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="405"></embed></object>
