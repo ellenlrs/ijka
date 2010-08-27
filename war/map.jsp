@@ -23,9 +23,9 @@
 			<div class="entry">
 				 <table width="99%" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td width="20%" valign="top"><img src="images/map.jpg" width="317" height="272" class="img" /></td>
+        <td width="20%" valign="top"><img src="images/ijkamap.jpg" width="317" height="272" class="img" /></td>
         <td width="20" valign="top">&nbsp;</td>
-        <td valign="top"><p><span class="red_body"><strong>全民道館</strong></span><br />
+        <td valign="top"><p><span class="red_body"><strong>哲彥館(全民道館)</strong></span><br />
 臺北市民生東路五段137巷6弄6號1樓<br />
 電話：(02)2766-8839<br />
 傳真：(02)2769-1581</p>
