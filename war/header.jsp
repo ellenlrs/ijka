@@ -13,6 +13,7 @@
 	<span class="c1">為緬懷台灣空手道之父&nbsp;&nbsp;&nbsp;&nbsp;淺井哲彥首席師範(1935.6.7~2006.8.15)，全民道館自2010.8.15在國際空手道界以「哲彥館」為名。</span><br/><br/>
 	<span class="c1">傳承淺井老師創作之「順路」、「常行」等形，及「轉身技」、「鞭拳」等絕學。<br/><br/>
 	發揚淺井流和平、友愛之精神。&nbsp;&nbsp;&nbsp;注重溫故知新、實踐精神磨練、以期術德兼修。</span><br/>
+	<br/><br/><br/>
 	<h1>
 	<a href="/"><img src="images/title03.JPG"></a></h1>
 	<h2> &raquo;&nbsp;&nbsp;&nbsp;空手道 </h2>
@@ -33,5 +34,5 @@
 		</ul>
 	</div>
 </div>
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <!-- end header -->

@@ -2,10 +2,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>:::歡迎光臨哲彥館:::</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<meta http-equiv="description" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="keywords" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="pragma" content="no-cache"/> 
+<meta http-equiv="cache-control" content="no-cache"/> 
+<meta http-equiv="expires" content="0"/> 
 <link href="default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -19,9 +23,34 @@
 	<!-- start content -->
 	<h2 class="title">最新消息</h2><br/>
 	<div class="post">
-			
 			<div class="entry">
-			
+			<h2 class="title">2010.12.25</h2>
+				<p>
+				茲訂於100年01月16日（週日）舉行『忘年會聚餐』敬請家長及學
+				員踴躍出席與參加<br />
+				時 間：下午18時入席；18時30分開席<br />
+				地 點：臺北市中正區仁愛路一段17號B2（青少年育樂中心）<br />
+				餐廳名稱：上海鄉村（仁愛店）<br />
+				<a href="news.jsp">詳細內容...</a>
+			</p>
+			<HR/>
+			<h2 class="title">2010.12.10</h2>
+				<p>
+				99年第八屆體委盃全國學生安全競技空手道錦標賽<br />
+				2010 威任盃空手道錦標賽男子組成績<br />
+				2010 威任盃空手道錦標賽女子組成績<br />
+				<a href="news.jsp">詳細內容...</a>
+			</p>
+			<HR/>
+			<h2 class="title">2010.09.04</h2>
+				<p>
+				2010年9月26日 謝師宴及 陳宏宗主席師範慶生會，下午 18:00 入席， 18:30 開席。<br /><br />
+				地點: 上海鄉村(仁愛店)  台北市仁愛路一段17號 地下二樓<br />
+			      tel: 02-23965154<br />
+			      (有停車場)<br />
+				<a href="news.jsp">詳細內容...</a>
+			</p>
+			<HR/>
 			<h2 class="title">2010.8.20</h2>
 				<p>
 					2010.9.26道館昇段晉級審查。<br />
@@ -43,7 +72,7 @@
 			</p>
 			
 			<HR/>
-			
+			<!--
 			<h2 class="title">2010.07.21</h2>
 				<p>
 				現將場地改至 台北市立興雅國中活動中心三樓舉行<br />
@@ -52,7 +81,7 @@
 				<a href="news.jsp">詳細內容...</a>
 			</p>
 			<HR/>
-			<!--
+			
 			<h2 class="title">2010.07.16</h2>
 				<p>
 				因紀念會籌備規模擴大，原預定場地不敷使用，需另覓新場地舉行典禮。<br />

@@ -2,10 +2,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>:::歡迎光臨哲彥館:::</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<meta http-equiv="description" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="keywords" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="pragma" content="no-cache"/> 
+<meta http-equiv="cache-control" content="no-cache"/> 
+<meta http-equiv="expires" content="0"/> 
 <link href="default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>

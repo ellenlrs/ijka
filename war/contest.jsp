@@ -2,10 +2,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>:::歡迎光臨哲彥館:::</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<meta http-equiv="description" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="keywords" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="pragma" content="no-cache"/> 
+<meta http-equiv="cache-control" content="no-cache"/> 
+<meta http-equiv="expires" content="0"/> 
 <link href="default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -17,7 +21,44 @@
 <!-- start page -->
 <div id="page">
 		<div class="post">
-				
+			<div class="entry">
+				<h3><u>99年第八屆體委盃全國學生安全競技空手道錦標賽</u></h3><br />
+				<p>
+				鄭雯心 大專女子個人型 冠軍<br />
+				陳怡安 大專女子個人型 亞軍<br />
+				賴亭諭 國小女子自由一招 冠軍<br />
+				賴亭諭 國小女子乙組個人型 冠軍<br />
+				林剛平 大專男子基本三招 季軍<br />
+				林剛平 大專男子戊組個人型 季軍<br />
+				</p>
+				<h3><u>2010 威任盃空手道錦標賽男子組成績</u></h3><br />
+				<p>
+				簡志穎、胡哲維、謝佳皓 大專社會男子甲組團體型 第二名<br />
+				簡志穎、謝佳皓 大專社會男子甲組雙人自由一招 第二名<br />
+				胡哲維 大專社會男子甲組個人對打第三量級 第三名<br />
+				竺智沅、李品毅、賴威成 國小男子甲組團體型 第三名<br />
+				甘晉愷 國小男子乙組自由一招 第一名<br />
+				</p>
+				<h3><u>2010 威任盃空手道錦標賽女子組成績</u></h3><br />
+				<p>
+				張美娟、鄭雯心、陳怡安 大專社會女子甲組團體型 第一名<br />
+				張美娟、鄭雯心 大專社會女子甲組雙人自由一招 第一名<br />
+				張美娟、鄭雯心、陳怡安 大專社會女子甲組團體對打 第三名<br />
+				鄭雯心 大專社會女子甲組個人對打第一量級 第二名<br />
+				陳怡安 大專社會女子甲組個人對打第三量級 第二名<br />
+				張美娟 大專社會女子甲組個人型 第三名<br />
+				陳怡安 大專社會女子甲組個人型 第三名<br />
+				檜山京子 大專社會女子丙組個人型 第二名<br />
+				曹育華 大專社會女子丙組個人型 第三名<br />
+				謝采紘、賴亭諭、楊于嫺 國小女子甲組團體型 第一名<br />
+				謝采紘 國小女子甲組自由一招 第二名<br />
+				賴亭諭 國小女子乙組自由一招 第二名<br />
+				楊于嫺 國小女子乙組自由一招 第三名<br />
+				楊于嫺 國小女子乙組個人型 第二名<br />
+					</p>
+			</div>
+		</div>
+		<div class="post">		
 			<div class="entry"><p>
 				<span class="c4">2010年總統盃空手道賽(2010,6,5 – 2010,6.6)</span><br/><br/>
 				<span class="c2">社會男子組個人型</span><br/>
