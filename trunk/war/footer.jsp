@@ -8,7 +8,7 @@
 	<br/>
 		連絡我們：<a href="mailto:ijkataiwan@gmail.com">ijkataiwan@gmail.com</a>
 	<br/>
-	哲彥館　地址：台北市民生東路五段137巷6弄6號1樓　電話：(02) 2766-8839  fax: 02-27691581<BR/>
+	哲彥館　地址：台北市民生東路五段137巷6弄6號1樓　電話：(02) 2766-8839 &nbsp;  FAX: 02-2769-1581<BR/>
 	Copyright© 2010 ijka.tw   All Rights Reserved.
 	</p>
 </div>

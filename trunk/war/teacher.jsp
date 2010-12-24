@@ -2,10 +2,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>:::歡迎光臨哲彥館:::</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<meta http-equiv="description" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="keywords" content="哲彥館,karate,空手道" /> 
+<meta http-equiv="pragma" content="no-cache"/> 
+<meta http-equiv="cache-control" content="no-cache"/> 
+<meta http-equiv="expires" content="0"/> 
 <link href="default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -79,7 +83,6 @@
 			<tr><td>台北市國術會白鸙拳委員會</td><td valign="top">總教練</td></tr>
 			<tr><td>全民道館</td><td valign="top">館長</td></tr>
 			<tr><td>日本,香港,中國,歐美技術講習會</td><td valign="top">國際指導</td></tr>
-			<tr><td>日本空手松濤會台灣本部</td><td valign="top">總教練</td></tr>
 			<tr><td>中華民國武術協會</td><td valign="top">九段</td></tr>
 			</table>
 		</td>
@@ -125,15 +128,7 @@
 	<tr>
 		<td colspan="5" valign="top" class="line">&nbsp;</td>
 	</tr>
-	<tr>
-		<td valign="top"></td>
-		<td valign="top"><span class="red_body">賴醒民</span><br />
-		白鶴二高蹤鶴拳名師</td>
-		<td valign="top">&nbsp;</td>
-		<td valign="top">&nbsp;</td>
-		<td valign="top"><span class="red_body"></span><br />
-		</td>
-	</tr>
+	
 	
 </table>
 </div>
