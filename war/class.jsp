@@ -37,7 +37,7 @@
 空<br />
 手<br />
 道</a></th>
-      <td width="43%" align="center" ><span class="red_body">週三、五<br>週一 ~ 週五</span></td>
+      <td width="43%" align="center" ><span class="red_body">週三、五<br>週二 ~ 週五</span></td>
       <td width="43%" align="center">16：30 ~ 17：50<BR>17：50 ~ 19：10</td>
     </tr>    
     <tr>
@@ -59,7 +59,7 @@
       <td align="center" >08：00 ~ 09：30</td>
     </tr>
     <tr>
-      <td align="center" ><span class="red_body">週一、二、四、五</span></td>
+      <td align="center" ><span class="red_body">週二、四、五</span></td>
       <td align="center" >19：10 ~ 20：30</td>
     </tr>
 <tr>

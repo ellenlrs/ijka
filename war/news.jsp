@@ -21,6 +21,37 @@
 <br/><br/>
 <!-- start page -->
 <div id="page">
+		<div class="post">
+				<h2 class="title">最近消息 - 2011.09.07</h2>
+				<div class="entry"><p>
+					2011台北國際空手道友誼賽競賽<br />
+					2011台北國際空手道友誼賽技術講習會<br />
+					相關網路新聞<br />
+					</p>
+					<img src="https://lh3.googleusercontent.com/-ZZcxCOGDpVA/Tm34Kej08eI/AAAAAAAAA34/LIIAH3xQu4Y/s640/20110803_NOWnews%2525E6%252596%2525B0%2525E8%252581%25259E_01.JPG" style="width: 640px; height: 480px; ">
+					<img src="https://lh5.googleusercontent.com/-kfNNavs4Q7I/Tm34LRD-JdI/AAAAAAAAA38/F-owSR39GbE/s640/20110803_PCHome%2525E6%252596%2525B0%2525E8%252581%25259E_01.JPG" style="left: 137px; top: 16px; width: 640px; height: 480px; " width="640" height="480">
+					<img src="https://lh4.googleusercontent.com/-91s_xd6Paac/Tm34LCVKwWI/AAAAAAAAA4A/OenBkXeHQ9c/s640/20110803_Yahoo%2525E5%2525A5%252587%2525E6%252591%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_01.JPG" style="width: 640px; height: 480px; ">
+					<img src="https://lh5.googleusercontent.com/-iF-ttyfu5DI/Tm34N40E0yI/AAAAAAAAA4E/P4hDL8bjp54/s640/20110803_Yahoo%2525E5%2525A5%252587%2525E6%252591%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_04.JPG" style="left: 137px; top: 16px; width: 640px; height: 480px; " width="640" height="480">
+					<img src="https://lh5.googleusercontent.com/-RuwXnLWHgYI/Tm34O92QodI/AAAAAAAAA4I/V8GQ_UhapkA/s640/20110803_Yahoo%2525E5%2525A5%252587%2525E6%252591%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_07.JPG" style="width: 640px; height: 480px; ">
+					<img src="https://lh3.googleusercontent.com/-dvRroogoTUw/Tm34PEclWOI/AAAAAAAAA4M/QX8UyRTux1U/s640/20110803_Yam%2525E8%252595%252583%2525E8%252596%2525AF%2525E8%252597%2525A4%2525E6%252596%2525B0%2525E8%252581%25259E_03.JPG" style="left: 137px; top: 16px; width: 640px; height: 480px; " width="640" height="480">
+					<img src="https://lh4.googleusercontent.com/-SXJm5vec4K4/Tm34RqMMbGI/AAAAAAAAA4Q/3c12SH75NEY/s640/20110806_Yam%2525E8%252595%252583%2525E8%252596%2525AF%2525E8%252597%2525A4%2525E6%252596%2525B0%2525E8%252581%25259E_03.JPG" style="width: 640px; height: 480px; ">
+					<img src="https://lh4.googleusercontent.com/-yyCjv0N4qkY/Tm34SHgeZvI/AAAAAAAAA4U/O1ENAXEjyRs/s640/20110807_%2525E4%2525B8%2525AD%2525E5%2525A4%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_01.JPG" style="left: 137px; top: 16px; width: 640px; height: 480px; " width="640" height="480">
+					<img src="https://lh6.googleusercontent.com/-mGyJVWMO-a4/Tm34SusGGnI/AAAAAAAAA3o/xEOFGNbeRBg/s640/20110807_%2525E4%2525B8%2525AD%2525E5%2525A4%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_02.JPG" style="width: 640px; height: 480px; ">
+					<img src="https://lh5.googleusercontent.com/-EmxAFoOIlsg/Tm34TWeO9cI/AAAAAAAAA3s/Gi18Fp2GMRo/s640/20110807_%2525E4%2525B8%2525AD%2525E5%2525A4%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_03.JPG" style="left: 137px; top: 16px; width: 640px; height: 480px; " width="640" height="480">
+					<img src="https://lh6.googleusercontent.com/-LfLVx3TA6e4/Tm34T9nVr0I/AAAAAAAAA3w/OZXPqQpUStU/s640/20110807_%2525E4%2525B8%2525AD%2525E5%2525A4%2525A9%2525E6%252596%2525B0%2525E8%252581%25259E_04.JPG" style="width: 640px; height: 480px; ">
+					<img src="https://lh4.googleusercontent.com/-rZ37AJ4aYbk/Tm34VZoNFBI/AAAAAAAAA30/u8Jgj_GCj98/s640/20110808_MSN%2525E6%252596%2525B0%2525E8%252581%25259E_01.JPG" style="left: 137px; top: 16px; width: 640px; height: 480px; " width="640" height="480">
+					
+					</div>
+			</div>
+			<div class="post">
+				<h2 class="title">最近消息 - 2011.09.07</h2>
+				<div class="entry"><p>
+					公 告<br />
+				自即日起，每逢星期一<br />
+				為休館日，道館停課。<br />
+					</p>
+				</div>
+			</div>
 			<div class="post">
 				<h2 class="title">最近消息 - 2011.07.08</h2>
 				<div class="entry"><p>
